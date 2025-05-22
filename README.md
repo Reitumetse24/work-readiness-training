@@ -52,7 +52,7 @@ Result: I identified strengths in communication and team work, realized an inter
 
 Based on my personality assessment, I discovered the following:
 
-- **Personality Type:** INFJ 
+- **Personality Type:** INFP
 - **Strengths:** Empathetic, strategic, organized  
 - **Weaknesses:** Perfectionism, overthinking
 
