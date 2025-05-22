@@ -29,7 +29,10 @@ Result: I gained clarity on pursuing a career in [your chosen field], identified
 ### 💡 Interests:
 - Technology and Innovation  
 - Environmental Sustainability  
-- Education and Youth Empowerment  
+- Education and Youth Empowerment
+
+![skills and interest photo](./skills and interest.jpg)
+
 
 Situation: I wanted to assess my current skill set and determine how my interests could influence my professional path. 
 Task: My objective was to recognize the skills I excel in and discover areas for improvement. 
