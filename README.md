@@ -60,7 +60,7 @@ Result: I discovered that my personality type is [e.g., INTJ, ENFP], which align
 
 ## 4. 📄 My CV (Curriculum Vitae)
 
-You can find my CV [here](./CV_Victoria.pdf).  
+You can find my CV [here](./CV.pdf).  
 
 <img src="./create-a-cv.jpeg" alt="create-a-cv" width="200"/>
 
@@ -77,7 +77,10 @@ I have submitted my CV as part of the assessment via:
 - ✅ Uploaded to GitHub Repository
 - ✅ Sent via email to [Instructor’s Email or Submission Platform]
 
+<p float="left">
 <img src="./cv-submission.jpeg" alt="cv-submission" width="200"/>
+<img src="./submitted-cv.jpeg" alt="submitted-cv" width="200"/>
+</p>
 
 Situation: I submitted my CV to companies as part of my job application process.<br> 
 Task: The aim was to apply for a position that matches my qualifications and gain feedback on my CV presentation.<br> 
