@@ -13,8 +13,8 @@ During career counselling, I explored different career paths that align with my 
 
 <p float="left">
 <img src="./career-counselling1.jpeg" alt="career-counselling1" width="200"/>
-<img src="./career-counselling2.jpeg" alt="career-counselling2" height="250"/>
-<img src="./career-counselling3.jpeg" alt="career-counselling3" height="250"/>
+<img src="./career-counselling2.jpeg" alt="career-counselling2" height="270"/>
+<img src="./career-counselling3.jpeg" alt="career-counselling3" height="270"/>
 </p>
 
 ### ✨ Reflection
