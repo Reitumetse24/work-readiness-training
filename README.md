@@ -11,12 +11,10 @@ During career counselling, I explored different career paths that align with my 
 - [ ] How to align career choices with values  
 - [ ] Short- and long-term goal setting  
 
-<img src="./career-counselling.jpeg" alt="career -counselling" width="200"/>
-
 Situation: I attended career counseling to explore potential career paths and understand the skills required for my dream job.<br> 
 Task: My goal was to identify a profession that aligns with my strengths, interests, and personality.<br> 
 Action: I participated in various assessments, had discussions with a career advisor, and researched industries that match my skills.<br> 
-Result: I gained clarity on pursuing a career in [your chosen field], identified necessary skills, and developed an actionable career plan.
+Result: I gained clarity on pursuing a career in Information Technology, identified necessary skills, and developed an actionable career plan.
 
 ---
 
@@ -39,7 +37,7 @@ Result: I gained clarity on pursuing a career in [your chosen field], identified
 Situation: I wanted to assess my current skill set and determine how my interests could influence my professional path.<br> 
 Task: My objective was to recognize the skills I excel in and discover areas for improvement.<br> 
 Action: I took self-assessments, listed transferable skills, engaged in online courses, and practiced relevant activities.<br> 
-Result: I identified strengths in [list your key skills], realized an interest in [mention your interests], and formulated steps to enhance my skill set.
+Result: I identified strengths in communication and team work, realized an interest in technology and innovation, and formulated steps to enhance my skill set.
 
 ---
 
@@ -63,7 +61,6 @@ Result: I discovered that my personality type is [e.g., INTJ, ENFP], which align
 ## 4. 📄 My CV (Curriculum Vitae)
 
 You can find my CV [here](./CV_Victoria.pdf).  
-*(Make sure to upload your CV to the repo as a PDF file named `CV_YourName.pdf`)*
 
 <img src="./create-a-cv.jpeg" alt="create-a-cv" width="200"/>
 
