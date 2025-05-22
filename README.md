@@ -31,7 +31,7 @@ Result: I gained clarity on pursuing a career in [your chosen field], identified
 - Environmental Sustainability  
 - Education and Youth Empowerment
 
-<img src="./skills-and-interest.jpeg" alt="Skills-and-nterests" width="450"/>
+<img src="./skills-and-interest.jpeg" alt="Skills-and-nterests" width="200"/>
 
 
 Situation: I wanted to assess my current skill set and determine how my interests could influence my professional path. 
