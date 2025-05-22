@@ -67,9 +67,7 @@ Result: I discovered that my personality type is INFP, which aligns well with ro
 ---
 
 ## 4. 📄 My CV (Curriculum Vitae)
-
-You can find my CV [here](./CV.pdf).  
-
+ 
 <img src="./create-a-cv.jpeg" alt="create-a-cv" width="200"/>
 
 ### ✨ Reflection
@@ -77,6 +75,8 @@ Situation: I needed a professional CV that effectively showcases my experience, 
 Task: The task was to design a well-structured CV that highlights my qualifications and aligns with industry standards.<br> 
 Action: I researched CV formats, tailored sections based on my strengths, and used a clean layout with concise descriptions.<br> 
 Result: I created a compelling CV that presents my profile effectively, making me more marketable to recruiters and employers.
+
+You can find my CV [here](./CV.pdf). 
 
 ---
 
