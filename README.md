@@ -12,7 +12,6 @@ During career counselling, I explored different career paths that align with my 
 - [ ] Short- and long-term goal setting  
 
 Situation: I attended career counseling to explore potential career paths and understand the skills required for my dream job. 
-
 Task: My goal was to identify a profession that aligns with my strengths, interests, and personality. 
 Action: I participated in various assessments, had discussions with a career advisor, and researched industries that match my skills. 
 Result: I gained clarity on pursuing a career in [your chosen field], identified necessary skills, and developed an actionable career plan.
@@ -36,6 +35,7 @@ Situation: I wanted to assess my current skill set and determine how my interest
 Task: My objective was to recognize the skills I excel in and discover areas for improvement. 
 Action: I took self-assessments, listed transferable skills, engaged in online courses, and practiced relevant activities. 
 Result: I identified strengths in [list your key skills], realized an interest in [mention your interests], and formulated steps to enhance my skill set.
+
 ---
 
 ## 3. 🧬 Personality Assessment
@@ -50,6 +50,7 @@ Situation: I completed a personality assessment to understand my strengths, work
 Task: The goal was to leverage my personality insights to make informed career decisions and improve personal development. 
 Action: I reflected on my personality test results, analyzed career paths suited to my traits, and sought feedback from mentors. 
 Result: I discovered that my personality type is [e.g., INTJ, ENFP], which aligns well with roles in [industry/profession], and adapted strategies for personal growth.
+
 ---
 
 ## 4. 📄 My CV (Curriculum Vitae)
@@ -61,6 +62,7 @@ Situation: I needed a professional CV that effectively showcases my experience, 
 Task: The task was to design a well-structured CV that highlights my qualifications and aligns with industry standards. 
 Action: I researched CV formats, tailored sections based on my strengths, and used a clean layout with concise descriptions. 
 Result: I created a compelling CV that presents my profile effectively, making me more marketable to recruiters and employers.
+
 ---
 
 ## 5. ✅ CV Submission
@@ -73,6 +75,7 @@ Situation: I submitted my CV to companies as part of my job application process.
 Task: The aim was to apply for a position that matches my qualifications and gain feedback on my CV presentation. 
 Action: I carefully selected job postings, tailored my CV to each application, and followed submission guidelines. 
 Result: I successfully sent out my CV to [mention companies], received valuable feedback, and improved my job application approach.
+
 ---
 
 ## 📬 Contact Information
