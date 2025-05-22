@@ -1,4 +1,4 @@
-# work-readiness-training
+# Work-readiness-training
 My digital portfolio serves as a structured showcase of my work readiness journey, highlighting my career aspirations, skills, personality insights, and professional documents such as my CV. It provides potential employers, mentors, and peers with a clear overview of my qualifications, interests, and growth. 
 
 ---
@@ -12,6 +12,7 @@ During career counselling, I explored different career paths that align with my 
 - [ ] Short- and long-term goal setting  
 
 Situation: I attended career counseling to explore potential career paths and understand the skills required for my dream job. 
+
 Task: My goal was to identify a profession that aligns with my strengths, interests, and personality. 
 Action: I participated in various assessments, had discussions with a career advisor, and researched industries that match my skills. 
 Result: I gained clarity on pursuing a career in [your chosen field], identified necessary skills, and developed an actionable career plan.
