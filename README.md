@@ -78,8 +78,8 @@ I have submitted my CV as part of the assessment via:
 - ✅ Sent via email to [Instructor’s Email or Submission Platform]
 
 <p float="left">
-<img src="./cv-submission.jpeg" alt="cv-submission" width="200"/>
-<img src="./submitted-cv.jpeg" alt="submitted-cv" height="230"/>
+<img src="./cv-submission.jpeg" alt="cv-submission" width="200" style="margin-right: 15px;"/>
+<img src="./submitted-cv.jpeg" alt="submitted-cv" height="230" style="margin-left: 15px;"/>
 </p>
 
 Situation: I submitted my CV to companies as part of my job application process.<br> 
