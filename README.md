@@ -79,7 +79,7 @@ I have submitted my CV as part of the assessment via:
 
 <p float="left">
 <img src="./cv-submission.jpeg" alt="cv-submission" width="200"/>
-<img src="./submitted-cv.jpeg" alt="submitted-cv" height="250"/>
+<img src="./submitted-cv.jpeg" alt="submitted-cv" height="230"/>
 </p>
 
 Situation: I submitted my CV to companies as part of my job application process.<br> 
