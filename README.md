@@ -11,6 +11,8 @@ During career counselling, I explored different career paths that align with my 
 - [ ] How to align career choices with values  
 - [ ] Short- and long-term goal setting  
 
+<img src="./career-counselling.jpeg" alt="career -counselling" width="200"/>
+
 Situation: I attended career counseling to explore potential career paths and understand the skills required for my dream job.<br> 
 Task: My goal was to identify a profession that aligns with my strengths, interests, and personality.<br> 
 Action: I participated in various assessments, had discussions with a career advisor, and researched industries that match my skills.<br> 
@@ -49,6 +51,8 @@ Based on my personality assessment, I discovered the following:
 - **Strengths:** Empathetic, strategic, organized  
 - **Weaknesses:** Perfectionism, overthinking
 
+<img src="./personality-assessment.jpeg" alt="personality-assessment" width="200"/>
+
 Situation: I completed a personality assessment to understand my strengths, working style, and how my traits align with different career options.<br> 
 Task: The goal was to leverage my personality insights to make informed career decisions and improve personal development.<br> 
 Action: I reflected on my personality test results, analyzed career paths suited to my traits, and sought feedback from mentors.<br> 
@@ -60,6 +64,8 @@ Result: I discovered that my personality type is [e.g., INTJ, ENFP], which align
 
 You can find my CV [here](./CV_Victoria.pdf).  
 *(Make sure to upload your CV to the repo as a PDF file named `CV_YourName.pdf`)*
+
+<img src="./create-a-cv.jpeg" alt="create-a-cv" width="200"/>
 
 Situation: I needed a professional CV that effectively showcases my experience, skills, and achievements to potential employers.<br> 
 Task: The task was to design a well-structured CV that highlights my qualifications and aligns with industry standards.<br> 
@@ -73,6 +79,8 @@ Result: I created a compelling CV that presents my profile effectively, making m
 I have submitted my CV as part of the assessment via:
 - ✅ Uploaded to GitHub Repository
 - ✅ Sent via email to [Instructor’s Email or Submission Platform]
+
+<img src="./cv-submission.jpeg" alt="cv-submission" width="200"/>
 
 Situation: I submitted my CV to companies as part of my job application process.<br> 
 Task: The aim was to apply for a position that matches my qualifications and gain feedback on my CV presentation.<br> 
