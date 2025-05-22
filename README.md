@@ -52,7 +52,7 @@ Result: I identified strengths in communication and team work, realized an inter
 
 Based on my personality assessment, I discovered the following:
 
-- **Personality Type:** [e.g., INFJ – The Advocate]  
+- **Personality Type:** INFJ 
 - **Strengths:** Empathetic, strategic, organized  
 - **Weaknesses:** Perfectionism, overthinking
 
@@ -62,7 +62,7 @@ Based on my personality assessment, I discovered the following:
 Situation: I completed a personality assessment to understand my strengths, working style, and how my traits align with different career options.<br> 
 Task: The goal was to leverage my personality insights to make informed career decisions and improve personal development.<br> 
 Action: I reflected on my personality test results, analyzed career paths suited to my traits, and sought feedback from mentors.<br> 
-Result: I discovered that my personality type is [e.g., INTJ, ENFP], which aligns well with roles in [industry/profession], and adapted strategies for personal growth.
+Result: I discovered that my personality type is INFP, which aligns well with roles in my career path, and adapted strategies for personal growth.
 
 ---
 
@@ -84,7 +84,7 @@ Result: I created a compelling CV that presents my profile effectively, making m
 
 I have submitted my CV as part of the assessment via:
 - ✅ Uploaded to GitHub Repository
-- ✅ Sent via email to [Instructor’s Email or Submission Platform]
+- ✅ Sent an email to networxgroup
 
 <p float="left">
 <img src="./cv-submission.jpeg" alt="cv-submission" width="200"/>
@@ -95,7 +95,7 @@ I have submitted my CV as part of the assessment via:
 Situation: I submitted my CV to companies as part of my job application process.<br> 
 Task: The aim was to apply for a position that matches my qualifications and gain feedback on my CV presentation.<br> 
 Action: I carefully selected job postings, tailored my CV to each application, and followed submission guidelines.<br> 
-Result: I successfully sent out my CV to [mention companies], received valuable feedback, and improved my job application approach.
+Result: I successfully sent out my CV to networxgroup, received valuable feedback, and improved my job application approach.
 
 ---
 
