@@ -11,6 +11,12 @@ During career counselling, I explored different career paths that align with my 
 - [ ] How to align career choices with values  
 - [ ] Short- and long-term goal setting  
 
+<p float="left">
+<img src="./career-counselling1.jpeg" alt="career-counselling1" width="200"/>
+  <img src="./career-counselling2.jpeg" alt="career-counselling2" width="200"/>
+    <img src="./career-counselling3.jpeg" alt="career-counselling3" width="200"/>
+</p>
+
 ### ✨ Reflection
 Situation: I attended career counseling to explore potential career paths and understand the skills required for my dream job.<br> 
 Task: My goal was to identify a profession that aligns with my strengths, interests, and personality.<br> 
@@ -34,7 +40,7 @@ Result: I gained clarity on pursuing a career in Information Technology, identif
 
 <img src="./skills-and-interest.jpeg" alt="Skills-and-nterests" width="200"/>
 
-
+### ✨ Reflection
 Situation: I wanted to assess my current skill set and determine how my interests could influence my professional path.<br> 
 Task: My objective was to recognize the skills I excel in and discover areas for improvement.<br> 
 Action: I took self-assessments, listed transferable skills, engaged in online courses, and practiced relevant activities.<br> 
@@ -52,6 +58,7 @@ Based on my personality assessment, I discovered the following:
 
 <img src="./personality-assessment.jpeg" alt="personality-assessment" width="200"/>
 
+### ✨ Reflection
 Situation: I completed a personality assessment to understand my strengths, working style, and how my traits align with different career options.<br> 
 Task: The goal was to leverage my personality insights to make informed career decisions and improve personal development.<br> 
 Action: I reflected on my personality test results, analyzed career paths suited to my traits, and sought feedback from mentors.<br> 
@@ -65,6 +72,7 @@ You can find my CV [here](./CV.pdf).
 
 <img src="./create-a-cv.jpeg" alt="create-a-cv" width="200"/>
 
+### ✨ Reflection
 Situation: I needed a professional CV that effectively showcases my experience, skills, and achievements to potential employers.<br> 
 Task: The task was to design a well-structured CV that highlights my qualifications and aligns with industry standards.<br> 
 Action: I researched CV formats, tailored sections based on my strengths, and used a clean layout with concise descriptions.<br> 
@@ -83,6 +91,7 @@ I have submitted my CV as part of the assessment via:
 <img src="./submitted-cv.jpeg" alt="submitted-cv" height="230"/>
 </p>
 
+### ✨ Reflection
 Situation: I submitted my CV to companies as part of my job application process.<br> 
 Task: The aim was to apply for a position that matches my qualifications and gain feedback on my CV presentation.<br> 
 Action: I carefully selected job postings, tailored my CV to each application, and followed submission guidelines.<br> 
