@@ -11,6 +11,7 @@ During career counselling, I explored different career paths that align with my 
 - [ ] How to align career choices with values  
 - [ ] Short- and long-term goal setting  
 
+### ✨ Reflection
 Situation: I attended career counseling to explore potential career paths and understand the skills required for my dream job.<br> 
 Task: My goal was to identify a profession that aligns with my strengths, interests, and personality.<br> 
 Action: I participated in various assessments, had discussions with a career advisor, and researched industries that match my skills.<br> 
